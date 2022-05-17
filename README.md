@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lollapaloooza
 - 👀 I’m interested in making web products.
-- 🌱 I’m currently learning React JS
-- 💞️ I’m looking to collaborate on any open source
+- 🌱 I’m currently working as a Frontend React Developer 
 - 📫 How to reach me t.me/lollapalooozasmurf
 
 <!---
