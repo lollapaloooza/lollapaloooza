@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lollapaloooza
-- 👀 I’m interested in making web products.
-- 🌱 I’m currently working as a Frontend React Developer 
+- 👀 I’m interested in making web products and backend microservices.
+- 🌱 I’m currently working as a Frontend React Developer and Backend GoLang Developer.
 - 📫 How to reach me t.me/lollapalooozasmurf
 
 <!---
